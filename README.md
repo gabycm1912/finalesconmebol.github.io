@@ -23,7 +23,7 @@
 
 <tr>
 <td><center><font size=6><font face=Amtype>1</font></center></td>
-<td><center><font size=4><font face=Amtype>Brasil</font></font></center>
+<td><center><font size=4><font face=Amtype><h3>Brasil</h3></font></font></center>
 <center><img src="brasil.png"></img></center></td>
 <td><center><font size=6><font face=Amtype>1</font></font></center></td>
 <td><center><font size=6><font face=Amtype>1</font></font></center></td>
@@ -53,7 +53,7 @@
 
 <tr><
 <td><center><font size=6><font face=Amtype>3</font></center></td>
-<td><center><font size=4><font face=Amtype>Argentina</font></font></center>
+<td><center><font size=4><font face=Amtype><h3>Argentina</h3></font></font></center>
 <center><img src="argentina.png"></img></center>
 <td><center><font size=6><font face=Amtype>1</font></font></center></td>
 <td><center><font size=6><font face=Amtype>1</font></font></center></td>
@@ -67,7 +67,7 @@
 </tr>
 
 <tr>
-<td><center><font size=6><font face=Amtype>4</font></center></td><td><center><font size=4><font face=Amtype>Colombia</font></font></center>
+<td><center><font size=6><font face=Amtype>4</font></center></td><td><center><font size=4><font face=Amtype><h3>Colombia</h3></font></font></center>
 <center><img src="colombia.png"></img></center>
 <td><center><font size=6><font face=Amtype>1</font></font></center></td>
 <td><center><font size=6><font face=Amtype>1</font></font></center></td>
@@ -81,7 +81,7 @@
 
 <tr>
 <td><center><font size=6><font face=Amtype>5</font></center></td>
-<td><center><font size=4><font face=Amtype>Paraguay</font></font></center>
+<td><center><font size=4><font face=Amtype><h3>Paraguay</h3></font></font></center>
 <center><img src="paraguay.png"></img></center>
 <td><center><font size=6><font face=Amtype>1</font></font></center></td>
 <td><center><font size=6><font face=Amtype>0</font></font></center></td>
@@ -95,7 +95,7 @@
 
 <tr>
 <td><center><font size=6><font face=Amtype>6</font></center></td>
-<td><center><font size=4><font face=Arial>Perú</font></font></center>
+<td><center><font size=4><font face=Arial><h3>Perú</h3></font></font></center>
 <center><img src="peru.png"></img></center>
 <td><center><font size=6><font face=Amtype>1</font></font></center></td>
 <td><center><font size=6><font face=Amtype>0</font></font></center></td>
@@ -110,7 +110,7 @@
 
 <tr>
 <td><center><font size=6><font face=Amtype>7</font></center></td>
-<td><center><font size=4><font face=Amtype>Venezuela</font></font></center>
+<td><center><font size=4><font face=Amtype><h3>Venezuela</h3></font></font></center>
 <center><img src="venezuela.png"></img></center>
 <td><center><font size=6><font face=Amtype>1</font></font></center></td>
 <td><center><font size=6><font face=Amtype>0</font></font></center></td>
@@ -125,7 +125,7 @@
 
 <tr>
 <td><center><font size=6><font face=Amtype>8</font></center></td>
-<td><center><font size=4><font face=Arial>Chile</font></font></center>
+<td><center><font size=4><font face=Arial><h3>Chile<h/</font></font></center>
 <center><img src="chile.png"></img></center>
 <td><center><font size=6><font face=Amtype>1</font></font></center></td>
 <td><center><font size=6><font face=Amtype>0</font></font></center></td>
@@ -140,7 +140,7 @@
 
 <tr>
 <td><center><font size=6><font face=Amtype>9</font></center></td>
-<td><center><font size=2><font face=Arial>Bolivia</font></font></center>
+<td><center><font size=2><font face=Arial><h3>Bolivia</h3></font></font></center>
 <center><img src="bolivia.png"></img></center>
 <td><center><font size=6><font face=Amtype>1</font></font></center></td>
 <td><center><font size=6><font face=Amtype>0</font></font></center></td>
@@ -155,7 +155,7 @@
 
 <tr>
 <td><center><font size=6><font face=Amtype>10</font></center></td>
-<td><center><font size=2><font face=Arial>Ecuador</font></font></center>
+<td><center><font size=2><font face=Arial><h3>Ecuador</h3></font></font></center>
 <center><img src="ecuador.png"></img></center>
 <td><center><font size=6><font face=Amtype>1</font></font></center></td>
 <td><center><font size=6><font face=Amtype>0</font></font></center></td>

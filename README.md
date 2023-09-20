@@ -38,7 +38,7 @@
 
 <tr>
 <td><center><font size=6><font face=Amtype>2</font></center></td>
-<td><center><font size=4><font face=Amtype>Uruguay</font></font></center>
+<td><center><font size=4><font face=Amtype><h3>Uruguay</h3></font></font></center>
 <center><img src="uruguay.png"></img></center>
 <td><center><font size=6><font face=Amtype>1</font></font></center></td>
 <td><center><font size=6><font face=Amtype>1</font></font></center></td>

@@ -1,7 +1,7 @@
 # finalesconmebol.github.io
 <html>
 
-<title>Clasificación final de la CONMEBOL</title>
+<tittle>Clasificación final de la CONMEBOL</tittle>
 <body bgcolor="#B0E0E6"><center><font size=8><font face=Activa-Bold><head>Clasificación de la CONMEBOL para la Copa Mundial de Fútbol</head></font></font></center>
 
 <h2><center><font size=6><font face=Aharoni>Resultados Finales de la CONMEBOL</font></font></center></h2>

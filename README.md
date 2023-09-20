@@ -1,4 +1,3 @@
-# finalesconmebol.github.io
 <html>
 
 <tittle>Clasificación final de la CONMEBOL</tittle>
